@@ -22,8 +22,6 @@
 
 - branch name : BE/FE/AI + 기능
 
-ex) BE/API, AI/MODEL
-
 - commit message : [기능] 변경내역
 
 ex) [BE]fix: api fix
